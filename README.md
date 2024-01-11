@@ -71,10 +71,10 @@
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKadam32&show_icons=true&locale=en&layout=compact" alt="AdityaKadam32" /></td>
    </tr>
 </table>
-<div align="center">
+<!-- <div align="center">
  <p><img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32&" alt="AdityaKadam32" /></p>
 </div> 
-
+ -->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AdityaKadam32/AdityaKadam32/output/snake.svg" alt="Snake animation" />
