@@ -1,6 +1,6 @@
 ![logo](https://github.com/AdityaKadam32/AdityaKadam32/blob/main/Github%20Banner.png)
 <h1 align="center">👋 Hi, I'm <a href="www.linkedin.com/in/aditya-kadam32" target="_blank"> Aditya Kadam </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)" /> </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKadam32&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaKadam32" /> </p>
 
@@ -69,13 +69,13 @@
 </div><br/>
 <table>
    <tr>
-    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaKadam32&show_icons=true&locale=en" alt="AdityaKadam32" /></td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKadam32&show_icons=true&locale=en&layout=compact" alt="AdityaKadam32" /></td>
+    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaKadam32&show_icons=true&locale=en&theme=onedark" alt="AdityaKadam32" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKadam32&show_icons=true&locale=en&layout=compact&theme=onedark" alt="AdityaKadam32" /></td>
    </tr>
 </table>
-<!-- <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32&" alt="AdityaKadam32" /></p>
-</div>  -->
+ <div align="center">
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-olive.vercel.app?user=AdityaKadam32&theme=onedark&exclude_days=Sun" alt="GitHub Streak" /></a></p>
+</div>  
  
 <br clear="both">
 
