@@ -71,9 +71,9 @@
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKadam32&show_icons=true&locale=en&layout=compact" alt="AdityaKadam32" /></td>
    </tr>
 </table>
-<!-- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32&" alt="Adityakadam32" /></p>
-</div> -->
+<div align="center">
+ <p><img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32" alt="AdityaKadam32" /></p>
+</div> 
 
 <br clear="both">
 
