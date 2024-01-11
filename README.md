@@ -72,7 +72,7 @@
    </tr>
 </table>
 <div align="center">
- <p><img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32" alt="AdityaKadam32" /></p>
+ <p><img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKadam32&" alt="AdityaKadam32" /></p>
 </div> 
 
 <br clear="both">
