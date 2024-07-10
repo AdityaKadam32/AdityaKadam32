@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://adityakadam32.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
